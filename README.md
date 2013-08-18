@@ -1,8 +1,8 @@
 # ASCII Cowpletions
 
-[ASCII cows](http://instinct.org/cows/). Moo!
+[ASCII cows](http://instinct.org/cows/), important stuff. Moo!
 
-![Animated Screenshot](https://raw.github.com/idleberg/ASCII-Cowpletions/master/preview/screenshot.gif)
+![Animated Screenshot](https://raw.github.com/idleberg/ASCII-Cowpletions/master/images/screenshot.gif)
 
 ## Installation
 
