@@ -1,6 +1,6 @@
 # ASCII Cowpletions
 
-Make your life more cow-plete with these [ASCII cows](http://instinct.org/cows/) snippets for Sublime Text. Moo good!
+Make your life more cow-plete with these fun [ASCII cows](http://instinct.org/cows/) snippets for Sublime Text. Moo good!
 
 ![Animated Screenshot](https://raw.github.com/idleberg/ASCII-Cowpletions/master/images/screenshot.gif)
 
