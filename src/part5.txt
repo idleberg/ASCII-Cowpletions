@@ -1,0 +1,652 @@
+
+        ...:::///  THE ANCIENT HISTORY OF THE COWS  \\\:::...
+
+             Part 5 of the 5-part COMPLETE GUIDE TO COWS!
+                  ___________________________
+         (__)    /                           \      * OFFICIAL EDITION *
+         (oo)   ( Remember when I was a calf? )
+  /-------\/  --'\___________________________/     * SUMMER 1991 ISSUE! *
+ / |     ||
+*  ||----||             Edited by David A. Bader
+   ^^    ^^             
+     Cow                
+
+=  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+
+                      THE BIRTH OF THE COWS
+           (in the words of Stephen L. Schultz, the Creator)
+
+=  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+
+Now, as for how it all started.  Well, I think John Christensen, my old 
+roomate, was the first person to discover:      (__)
+                                                (oo)
+                                                 \/
+looked like a cow's head.  He once transmitted it vie write to someone
+else and has it say, "MOO".  I suppose it originated from (* *) which in
+are implementation of PASCAL was begin and end comment.  And he just
+added the rest of it.
+
+Then, as I said earlier, our system had crashed, and I was sitting 
+around talking with a friend, Geordie Kleuber.  He was working on some
+project or other and needed to know ANSI escape sequences.  As I had
+just finished writing graphics primitives in MACRO-11 for a project
+I was working on, I knew them cold.  So I demonstrated how to position
+the cursor and how to turn attributes on and off.
+
+I was doing this in local mode, and wanted something to draw, so I
+drew one of John's "MOOs" as he called them.  Then, as I need more
+attributes to turn on and off, I added the rest of the body.  Being 
+the corny person that I am, and seeing as how the Chernobyl incident
+was current events at the time, I decided to make the entire cow blink.
+Then I made the entire cow blink and bold.  Then I made the entire cow
+blink, bold, and reverse video.  And I added captions underneath,
+"Within 100 miles of Chernobyl"  "Within 10 miles of Chernobyl"  and
+"Within 1 mile of Chernobyl."
+
+Geordie thought it was hilarious.  And as we had a local newsgroup, 
+local.noise (now csh.noise since the organization was Computer Science
+House) for posting all sorts of ramblings.  I decided to make an entire 
+posting out of the cows.  The house loved them, and so I continued to 
+make up more.
+
+Meanwhile, unbeknownst to me, Adam Stein, a house member who was cooping 
+at Xerox, took copies of them and posted them to rec.humor there.  
+Because at the time, CSH did not have a full news feed, and only got 
+incoming news, nothing went back out.  Adam one day forwarded me some 
+letters of people praising the cows.  I didn't know until the third or 
+fourth posting that they were going out.  Not that I minded.
+
+It was funny.  For the next year or so, people would tell me how while 
+they were on coop in YourCity, USA they would see my cows posted on the 
+wall.  When I was at a DECUS once, someone recognized my name (I was 
+giving a talk on Imaging Science) as the creator of the cows and made 
+mention of it and about 20 people in the audience knew what he meant 
+when he spoke of the "net cows."
+
+It was kind of neat.  Since then, they have taken on a life of their 
+own.  I had no idea how many new ones had been created.  Some of them 
+are so intricate, it amazes me someone took the time to do it.
+
+Someone once suggested putting them into a book, but I said, "They 
+wouldn't make it in a book.  They only live on the net.  There they have 
+character.  In a book, they are just characters."  I'd much rather see 
+them live in the public domain anyways.  Especially since there have 
+been so many contributions from so many different people.  It really is 
+kind of neat.
+
+Who'd of thunked it? :)
+
+                                                - Steve
+
+=  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+
+                             GROWING UP
+               (Some explanations by Stephen L. Schultz)
+
+=  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+
+Hello.  A friend of mine recently showed me the Cowmpendium you have
+compiled from the net.  This was of interest to me since I was the
+person who started it all so long ago.  I haven't subscribed to
+rec.humor in a long time so I've missed a number of those you had
+in your compendium.  On the same token, you've missed some of my
+more recent ones.  I also noticed a few other older ones missing.
+
+As was the case with a number of them, there are some local jokes,
+and local references.  The "Corner Crew" is our cheering section
+for RIT hockey.
+
+I will leave it up to you what you want to include and what you
+do not.
+
+Incidently, the "Chernobull" series is of special significance
+because they are the ones that started it all.  One day, when the
+system was down, I put my VT100 into local mode and started drawing.
+The end result was the first cow.  Actually it was a little more squat
+than it is now, but I refined it on the screen until it looked good.
+Knowing my VT100 escape codes by heart, I then drew another and made
+it flash, and then flash and bold, and then flash, bold, and not present,
+etcetera.  In the olden days, you could send escapes through the mail
+and such, and so it used to be a nice effect.  Of course, since then,
+everyone strips escapes out, so the series has lost its effect.  But
+I decided to leave them in for historical purposes.
+
+Of course, again, you may include or not include them as you will.
+Who'd of thought when I drew them way back when they'd have caught
+on as they did?  Thank Adam "Bacca" Stein for sending them out into
+the "real" world, because initially they were only released on
+local.noise which was a newsgroup local to our organization.
+
+Have a good one.
+
+                                        - Stephen L. Schultz
+
+Bitnet:    SLS4255@RITVAX
+Internet:  SLS4255@RITVAX.isc.rit.edu
+
+=  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+
+                     THE ORIGINAL GUIDE TO COWS
+
+=  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+
+Today, we are going to compare and contrast those lovely little bovines.
+So sit back and enjoy, but don't forget to take notes.  There may be a
+surprise quiz sometime next week.
+
+
+         (__)
+         (oo)                       U
+  /-------\/                    /---V
+ / |     ||                    * |--|                       .
+*  ||----||
+   ^^    ^^
+
+Cow at 1 meter.         Cow at 100 meters.        Cow at 10,000 meters.
+
+
+
+         (__)                     )__(                vv    vv
+         (oo)                     (oo)                ||----||  *
+  /-------\/               *-------\/                 ||     | /
+ / |     ||               / |     ||                 /\-------/
+*  ||----||              /  ||----||                (oo)
+   ^^    ^^                 vv    vv                (~~)
+
+American Cow              Polish Cow            Australian Cow
+
+
+         (__)                     (__)                     (__)
+         (oo)                ____ (oo)                _---_(oo)
+  /-------\/               /-    --\/               /-     -\/
+ / |     ||               / |     ||               /|      ||
+*  ||----||              *  ||___-||              *  ||___-||
+   ^^    ^^                 ^^    ^^                 ^^    ^^
+
+Freshman Cow             Freshman Cow             Freshman Cow
+Arriving at RIT     After the "Freshman 15"    After the "Freshman 20"
+
+
+         (__)                     (__)                     (__)
+         (OO)                     (@@)                     (xx)
+  /-------\/               /-------\/               /-------\/
+ / |     ||               / |     ||               / |     ||
+*  ||----||              *  ||----||              *  ||----||
+   ^^    ^^                 ^^    ^^                 ^^    ^^
+
+Cow who drank Jolt       Cow who ate              Cow who used Jolt to wash
+                      psychadelic mushrooms      down psychadelic mushrooms
+
+
+
+          [5m(__)                      [7m(__) [0m                    [7m [5m
+  [0m
+          [5m(oo)                      [7m(oo) [0m                    [7m [5m
+  [0m
+   [5m/-------\/                [7m/-------\/ [0m              [7m [5m
+  [0m
+  [5m/ |     ||                [7m/ |     || [0m              [7m [5m
+  [0m
+ [5m*  ||----||               [7m*  ||----|| [0m             [7m [5m
+  [0m
+    [5m^^    ^^                  [7m^^    ^^ [0m                [7m [5m
+  [0m
+
+Cow within 100 miles     Cow within 10 miles       Cow within 1 mile
+    of Chernobull           of Chernobull            of Chernobull
+
+
+
+Note:  Chernobull is intentionally misspelled to avoid an international
+       incident.  It was never intended as a bad pun.  Yah, right.
+
+The following three cows were supposed to be appearing with the
+Celebrity Cows in the last issue, however, I found out that they
+were sitting around a bar getting drunk discussing what exactly
+is art.  The cows' conclusion:  Art is a bunch of Bull(s).
+
+                                Sorry, but I couldn't resist,
+                                Hawk,  Sesquipedalianite
+                                and Head of Heffer Control.
+
+
+
+                    (____)             (____)                           (____)
+                    (oo  )                (o  o)                        ( O O)
+         /-----------\  /          /-----\    /----          /-----------\  /
+        / ||       |  \/          / |   |  \/   |           / ||       |  \/
+       /  ||       ||||           \ |  |      | | |        /  ||       ||||
+      *   ||||-----||||            *| | |-----| | |       *   ||||-----||||
+          /\/\     /\/\             /\ /\     /\ /\           ^^^^     ^^^^
+     This cow belonged         This was Salvatore      No one was sure whether
+      to Pablo Picasso        Dali's favorite cow    M.C. Escher's cow had four
+                                                           legs or eight
+
+
+
+. . . And now, the Golden Bovine Awards!
+
+           (__)
+           (oo)      (_)
+    /-------\/        V
+   / |     ||        /G\
+  *  ||----||     ___[B]___
+     ^^    ^^     |       |
+
+And now, the moment you've all been waiting for . . . the nominees for the
+best leading bull in a motion picture are:
+
+        Christopher for his role as the Brooklyn tough in the critically
+                acclaimed drama, "Chew the Cud Slowly"
+
+        Gambler, the swashbuckling hero in this years box-office block
+                buster in "Cow Wars III:  Return of the Bovine"
+
+        Samson, as the somewhat deranged longhorn in what has been described
+                as this years most artistic film, "Slaughterhouse Mine"
+
+        Spencer for his outstanding portrayal of a cow who gets involved in
+                some crazy farmers scheme and gets sent to foreign fields
+                where his only goal is to get "Back to the Pasture"
+
+        George, the latest heart throb to dance his way across the silver
+                screen in "Hoofloose"
+
+                and
+
+        Bitters in a thought provoking role as an in-mate at a barn for
+                the mentally impaired in "One Flew Over the Milking Machine"
+
+And the winner is . . .
+
+Christopher in "Chew the Cud Slowly"
+
+I would like to thank everyone who helped me make this movie, without whom I
+never would have won, especially, Farmer Brown, whose guidance and patience
+around feeding time helped me through the long nights of rehearsals and
+shootings, and Farm-Hand John, who used to sneak out at night to open the
+gate to the stud pen so that I could relieve some of my other tensions, and
+to . . . . . . . . . . . . . . . . . . . .
+                             \
+           (__)                (___)
+           (oo)      (_)       (O O)
+    /-------\/        V         \ /---------\
+   / |     ||        /G\         O ||      | \
+  *  ||----||     ___[B]___        ||-----||  *
+     ^^    ^^     |       |        ^^     ^^
+
+
+
+I would like to express my heart felt thanks to Gary Larson for giving
+me explicit written permission to use his Far Side cartoon panel as
+a basis for this cow posting:
+
+
+
+
+
+
+...and with its onboard floating point
+and dual I and D cache buffers, the
+CLIPPER will blow the doors off of any
+micro in its class.                             QUICK, ONE'S COMING !!!
+    \                                                   \
+     \                                                   \
+      (__)          (__)                                 (__)
+      (oo)          (oo)                                 (oo)
+       \/            \/                                   \/
+     /----\        /----\                               /----\
+    /|    |\      /|    |\                             /|    |\
+   ^ |    | ^    ^ |    | ^-+                         ^ |    | ^
+     |    |        |    | |C|                           |    |
+     /----\        /----\ +-+                           /----\
+    /    \ \      /    \ \                             /    \ \
+   ^      * ^    ^      * ^                           ^      * ^
+
+
+
+
+
+
+
+
+
+
+              MOO                  Oh, how boring it must
+              /                    be to be a cow.
+           (__)      (__)                 \                   (__)
+           (oo)      (oo)                  _______            (oo)
+    /-------\/        \/-------\          //  ||\ \            \/-------\
+   / |     ||          ||     | \   _____//___||_\ \___         ||     | \
+  *  ||----||          ||----||  *  )  _          _    \        ||----||  *
+     ^^    ^^          ^^    ^^     |_/ \________/ \___|        ^^    ^^
+______________________________________\_/________\_/__________________________
+
+
+
+
+
+
+
+
+
+
+...So explain to me again how
+they were able to acheive
+zero wait states...
+                 \                           It's party time!
+                  \                                    \
+      (__)          (__)                                 (__)
+      (oo)          (oo)                                 (oo)
+       \/            \/                                   \/
+     /----\        /----\                               /----\
+    /|    |\      /|    |\                             /|    |\
+   ^ |    | ^    ^ |    | ^-+                         ^ |    | ^
+     |    |        |    | |C|                      [BUD]|    |[BUD]
+     /----\        /----\ +-+                      [SIX]/----\[SIX]
+    /    \ \      /    \ \                             /    \ \
+   ^      * ^    ^      * ^                           ^      * ^
+
+
+
+
+
+
+
+CLIPPER is a trademark of the Fairchild Semiconductor Corporation,
+BUD is a trademark of Anheiser Busch Brewing, and
+"Far Side" is a New York Times Syndication.
+                  /
+                 /     And we're just stupid cows.
+           (__)                   /
+           (oo)              (__)
+    /-------\/               (oo)
+   / |     ||                 \/-------\
+  *  ||----||                  ||     | \
+     ^^    ^^                  ||----||  *
+                               ^^    ^^
+
+
+
+
+
+Many people have been asking me why there are so many different kinds
+of milk on the shelves.  Not just different brands, but different types,
+like Whole or Low-Fat.  Well, I have decided to answer that question in
+full.  Listed below are most of the major types of milk available on the
+market today and with them are the type of cow that produces the milk.
+Most American citizens don't even begin to realize all of the carefull
+in-breeding that went into producing these strains of dairy cows so that
+the average consumer would have a wide selection of milk to choose from.
+In fact, most Americans are ignorant of tha fact that this many different
+types of cows exist.  Most people beleive that all cows look alike.  Not
+so, as we are soon to find out.
+
+                                           Stephen L. Schultz
+                                           Head of Heifer Control
+                                           Computer Science House
+                                           Rochester Institute of Technology
+                                           Rochester, New York  14623
+
+
+
+
+         (__)                     (__)                    __)
+         (oo)                     (oo)                     o)
+  /-------\/               /-------\/
+ / |  O  ||               * ||----||
+*  ||----||                 ||    ||
+   ^^    ^^                 ^^    ^^
+Cow that gives            Cow that gives           Cow that gives
+(W)hole Milk.             Low-Fat Milk.            2% Milk.
+
+
+
+         (__)
+         (dd)                                          .
+  /-------\/
+ / |     ||                         U                      .
+*  ||----||                     /---V                         .
+   ^^    ^^                    * |--|                  .
+Cow that gives            Cow that gives           Cow that gives (gave)
+Vitamin D Milk.           Condensed Milk.          Evaporated Milk.
+
+
+Warning:  Two of the last three are crude.
+
+
+
+                               (__)
+                             __(oo)
+         (__)               /   \/  (__)                        (___)
+         milk              /   \\   (oo)                        (O O)
+  /-------\/              /|  /-^^---\/                 /--------\ /
+ / |     ||              / | /|     ||                 / |      ||O
+*  ||----||             *  || ||----||                *  ||@\---||
+   ^^    ^^                ^^ ^^    ^^                   ^^     ^^
+Cow that gives             Cows that give             Cow that gives
+Pasteurized Milk.          Homogenized Milk.          Cream.
+
+
+
+I warned you.
+
+
+In an attempt to cash in on the cow craze that swept local.noise, Detroit
+has decided to produce a complete line of auto-moo-biles.  Japan was quick
+to follow suit and produced a few cows too, as were a couple of European
+countries.  Below is a list of the auto-moo-biles reviewed by "Cow and
+Track" magazine.
+
+Before you read the list, I would like to point out that a friend of mine
+recently purchased a particular brand of automobile and we have been
+kidding her about the small size of this automobile.  It is intended to
+needle this person, but if you wish to take offense and want to flame me
+for degrading the car, then please, feel free to send all flames to:
+                 rochester!ritcv!ritcsh!adam
+
+If you wish to make any constructive comments or suggestions to add to
+my collection of cows, please mail to:
+                 rochester!ritcv!ritcsh!hawk
+
+
+                       (__)                Stephen L. Schultz
+                       (oo)                Head of Heifer Control
+                /-------\/                 Computer Science House
+               / |     ||                  Rochester Institute of Technology
+              *  ||----||                  Rochester, New York  14623
+                 ^^    ^^
+
+
+Here are the national standards for wheel-base classification:
+
+
+             (__)              (__)            (__)          (__)
+             (oo)              (oo)            (oo)          (oo)
+  /-----------\/      /---------\/      /-------\/      /-----\/
+ / |         ||      / |       ||      / |     ||      / |   ||            U
+*  ||--------||     *  ||------||     *  ||----||     *  ||--||        /---V
+   OO        OO        OO      OO        OO    OO        OO  OO       * O--O
+
+  Full-Size Cow       Mid-Size Cow    Compact Cow    Sub-Compact Cow    Yugo
+
+
+
+These are some of the various models offered:
+
+
+   __   (__)       ______  (__)               (__)             (__)
+  /  \  (oo)      /      \ (oo)               (oo)          \  (oo)
+ /    ---\/      *        --\/     /|      |---\/      @     ---\/
+* |     ||       |         ||     * |______|  ||      /|       ||          U
+  ||----||       ||--------||       ||--------||     * ||------||      /---V
+  OO    OO       OO        OO       OO        OO       OO      OO     * O--O
+
+Hatch-Back      Station Wagon      Pick-up Truck     Convertable   Roller Skate
+
+
+
+Although some people like to customize their cows:
+
+
+         (__)                                               \
+         (oo)                                                \
+  /-------\/                                  (__)            \__)
+ / |     ||        /---_  (__)                (oo)            (oo)
+*  ||----||       / |   -_(oo)     /-----------\[]    /--------\/
+  OOO    OOO     *  ||-_  |\/     / |         |[]    /|=======||     *    U
+ O   O  O   O       ||  -_||     *  ||--------||    * ||------||(     \---V
+  OOO    OOO        OO    OO        OO        OO      @@      @@       O--O
+
+Beach-comber's    A Low-Rider   Chevy Impala      Aluminum alloy      Yugo with
+    Deluxe                     with Fuzzy Dice   rims, fog lamps,       rear
+                                                  cb radio, and        spoiler
+                                               custom pin-striping
+
+
+
+Then there are the luxury cows:
+
+
+                                               (__)
+                                               (oo)
+  /---------------------------------------------\/
+ / |                                           ||                 U
+*  ||------------------------------------------||           /-----V
+   OO                                          OO          * O----O
+
+                      Stretch Limo                         Yugo Limo
+
+
+
+And the workforce of the interstate cowing industry:
+
+
+     /------------------------------------------
+    / |                                        |
+   /  |      Upstate Milk Cooperatives         | (_____)
+  /   |                                        | ( O O )
+ /    |                                        |  \   /
+*     |________________________________________|___\ /
+         OO  OO                         OO  OO      O         . .__.,,
+
+                    The Eighteen Hoofer                    Yugo after being
+                                                      run over by the 18 hoofer
+
+
+
+Many people have been asking what the most read magazine is amongst the
+bulls in the pen.  Well the answer is an easy one, it's PLAYBULL.  But
+not too many people know who own's PLAYBULL, so I thought it would be
+nice to head out to the PLAYBULL Mansion and meet the founder and editor,
+Hugh Heifer.
+
+                                                - Steve Schultz
+                                                  Head of Heifer Control
+
+
+Here is Hugh Heifer himself, with a couple of his PLAYBULL Bunnies.
+Of course, whenever Hugh is around the mansion, he always wears his
+comfortable silk bathrobes.
+
+        \    /                       \    /
+         \__/               (___)     \__/
+         (oo)               (o o)     (oo)
+  /-------\/        /---+----\ /       \/-------\
+ / |     ||        / |  |   ||O         ||     | \
+*  ||----||       *  ||-+---||          ||----||  *
+   ^^    ^^          ^^     ^^          ^^    ^^
+
+
+Meanwhile, in the photo studios in the back of the mansion, we see next
+issues centerfold posing in front of the camera.
+
+         (__) O
+         (o[o]|                       *     (__)
+  /-------\/ v                       /      (oo)v
+ / |     ||_/                        \-------\/ \
+*  ||----|                     v____/      /   \/
+   ^^    ^                      v___\____v/___/
+
+Probably an RIT               Is this one beautiful
+photo graduate                   bovine, or what?
+
+Well, if you liked the way the centerfold looked, you may want some
+biographical data:
+
+Name:                           Ingrid
+Age:                            4
+Occupation:                     Dairy producer
+Major Turn-ons:                 A well charged cattle prod
+Major Turn-offs:                A stud pen with too many cows
+                                and not enough bulls
+Favorite TV Show:               T.J. Hoofer
+Favorite Rock Group:            George Thorocud
+Favorite Sexual Position:       Up against the barbed wire
+Ambitions in Life:              To be in heat during the running of the bulls
+
+Our system ( VAXIMG ) is currently down for FCO's, and so, having nothing
+better to do ( not necessarily true, but nothing better that I want to do )
+I decided to draw a few cows.  These cows are from the Corner Crew, so
+watch out, they are loud and obnoxious at hockey games.
+
+                                                - Hawk
+
+                        (_   _)
+          (__)          (o   o)
+          (oo)           \   /-------\
+   /-------\/                ||     | \
+  * ||----||                 ||----||  *
+    ^^    ^^                 ^^    ^^
+Strawberry Shortcake    Banana Split
+
+         (__)          (__)        *
+         (oo)          (oo)       /
+  /-------\/            \/-------/
+ / |     ||              ||     | o
+*  ||----||              ||----||   ooo
+   ::    ::              ^^    ^^  oooooo
+Your team skates      Like a pile of . . .
+
+(__)                          (__)
+(oo)                          (oo)
+ \/-------\            /-------\/
+  \\     \ \          / /     //
+   \\----\\ *        * //----//
+    ^^    ^^          ^^    ^^
+Shift to the left    Shift to the right
+
+    (__)
+    (oo)
+  /--\/--\               (__)
+ / |    | \              (oo)
+^  |    |  ^           ---\/----<
+   /----\              | \-+-<
+  /   \  \             |   |
+ ^     *  ^         *__|__-+-<-<
+Stand up            Sit down
+
+          (__)  *       (__)(__)
+          (xx)   \      (@@)(oo)
+   /-------\/ >---\------\/  \/-------\
+  / |     ||      |     ||>---|     || \
+ *  ||----||      |-----||     |----||  *
+    ^^    ^^      ^     ^^     ^    ^^
+Fight, fight, fight!
+
+=  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+
+The Complete Guide to Cows thanks the following editors:
+
+  Stephen L. Schultz  (SLS4255@RITVAX.isc.rit.edu[obsolete])
+  Eric W. Tilenius    (76450.3340@compuserve.com)
+  David A. Bader      (dbader@eng.umd.edu)
+
+And, of course, a BIG MOO! to the home audience for supporting and creating
+ new cows for the Guide!
+
+=  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
