@@ -1,8 +1,10 @@
 # ASCII Cowpletions
 
-Make your life more cow-plete with these fun [ASCII cows](http://instinct.org/cows/) snippets for Sublime Text. Moo good!
+Make your life more cow-plete with these fun [ASCII cows](http://instinct.org/cows/) snippets for Sublime Text. Moo!
 
 ![Animated Screenshot](https://raw.github.com/idleberg/ASCII-Cowpletions/master/images/screenshot.gif)
+
+This is only a fraction of the cows that popped up to become one of the early memes of the internet - at a time when hardly knew about the internet, in 1991. If you want to find out more about ASCII cows, read about [The Birth of the Cows](http://www.clasohm.com/cows/guide5.html)
 
 ## Installation
 
