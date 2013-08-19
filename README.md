@@ -4,7 +4,7 @@ Make your life more cow-plete with these fun [ASCII cows](http://instinct.org/co
 
 ![Animated Screenshot](https://raw.github.com/idleberg/ASCII-Cowpletions/master/images/screenshot.gif)
 
-This is only a fraction of the cows that popped up to become one of the early memes of the internet - at a time when hardly knew about the internet, in 1991. If you want to find out more about ASCII cows, read about [The Birth of the Cows](http://www.clasohm.com/cows/guide5.html)
+This is only a fraction of the cows that popped up to become one of the early memes of the internet - at a time when hardly knew about the internet, in 1991. If you want to find out more about ASCII cows, read about [The Birth of the Cows](http://www.clasohm.com/cows/guide5.html).
 
 ## Installation
 
@@ -15,6 +15,11 @@ This is only a fraction of the cows that popped up to become one of the early me
 3. Select *ASCII Cowpletions* and press `Enter`
 
 With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
+
+### GitHub
+
+1. Change to your Sublime Text `Packages/User` directory
+2. Clone repository `git clone https://github.com/idleberg/ASCII-Cowpletions.git`
 
 ### Manual Installation
 
