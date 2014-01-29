@@ -1,6 +1,6 @@
 # ASCII Cowpletions
 
-Make your life more cow-plete with these fun [ASCII cows](http://www.geocities.com/spunk1111/cows.htm) snippets for Sublime Text. Moo!
+Make your life more cow-plete with these fun [ASCII cow](http://www.geocities.com/spunk1111/cows.htm) snippets for Sublime Text. Moo!
 
 ![Animated Screenshot](https://raw.github.com/idleberg/ASCII-Cowpletions/master/images/screenshot.gif)
 
@@ -37,6 +37,7 @@ This work has been **identified** as being free of known restrictions under copy
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See **Other Information** below.
 
 #### Other Information
+
 * The work may not be free of known copyright restrictions in all [jurisdictions](http://creativecommons.org/publicdomain/mark/1.0/).
 
 * Persons may have other rights in or related to the work, such as patent or trademark rights, and others may have rights in how the work is used, such as [publicity or privacy rights](http://wiki.creativecommons.org/Frequently_Asked_Questions#When_are_publicity_rights_relevant.3F).
