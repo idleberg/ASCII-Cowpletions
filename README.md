@@ -51,3 +51,7 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 ## Donate
 
 [<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/ASCII-Cowpletions)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/ascii-cowpletions/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
