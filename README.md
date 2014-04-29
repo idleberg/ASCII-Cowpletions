@@ -11,20 +11,20 @@ This is only a part of the many cows that popped up to become one of the early m
 ### Package Control
 
 1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
-2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
+2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
 3. Select *ASCII Cowpletions* and press `Enter`
 
 With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
 
 ### GitHub
 
-1. Change to your Sublime Text `Packages/User` directory
+1. Change to your Sublime Text `Packages` directory
 2. Clone repository `git clone https://github.com/idleberg/ASCII-Cowpletions.git`
 
 ### Manual Installation
 
 1. Download `ASCII Cowpletions.sublime-completions`
-2. Choose *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
+2. Choose *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
 3. Copy the file to `Packages\User`
 
 ## License
