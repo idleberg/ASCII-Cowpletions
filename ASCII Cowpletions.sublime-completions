@@ -534,11 +534,11 @@
                 { "trigger": "moo__Sit down", "contents": "     (__)    \n     (oo)    \n   ---\\/----<\n   | \\-+-<   \n   |   |     \n*__|__-+-<-< \n" },
                 { "trigger": "moo__Fight, fight, fight!", "contents": "         (__)  *       (__)(__)         \n         (xx)   \\      (@@)(oo)         \n  /-------\\/ >---\\------\\/  \\/-------\\  \n / |     ||      |     ||>---|     || \\ \n*  ||----||      |-----||     |----||  *\n   ^^    ^^      ^     ^^     ^    ^^   \n" },
 
-                /* ...and lastly, let me sneak three more I came up with while putting together these completions */
+                { "note:" "...and lastly, let me sneak three more I came up with while putting together these completions" },
                 { "trigger": "moo__Daft Cownt", "contents": "        (___) (___)        \n        (===) ((_))        \n  /------\\-/   \\_/------\\  \n / |     ||      ||     |\\ \n*  ||----||      ||----|| *\n   ^^    ^^      ^^    ^^  \n" },
                 { "trigger": "moo__Dr. Cowdberg", "contents": "         (__)\n         (oo)\n  /------//)\\\n / |     ||  \n*  ||,---||  \n   ^^    ^^  \n" },
                 { "trigger": "moo__Nyan Cow", "contents": "+      o     +              o    \n    *             o             +\no          +            +        \n    o  +      o    +        *    \n-._   _.-._   _.-._  (__)       o\n-._`-´_.-._`-´*------(^^)  +     \n-._`-´_.-._`-´_.|     \\/       + \n-._`-´_.-._`-´_.||----|| o       \n-._`-´_.-._`-´_.^^ +  ^^     o   \n   `-´ +   `-´  o                \no        o           *    o     +\n    o           +                \n+      +     o        o      +   \n" },
 
-                { /* It ain't over 'til the fat cow sings */ }
+                { "note": "It ain't over 'til the fat lady sings" }
         ]
 }
