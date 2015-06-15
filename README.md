@@ -1,4 +1,6 @@
-# ASCII Cowpletions [![Build Status](https://secure.travis-ci.org/idleberg/ASCII-Cowpletions.png)](http://travis-ci.org/idleberg/ASCII-Cowpletions)
+# ASCII Cowpletions
+
+[![Travis](https://img.shields.io/travis/idleberg/ASCII-Cowpletions.svg?style=flat-square)](https://travis-ci.org/idleberg/ASCII-Cowpletions)
 
 Make your life more cow-plete with these fun [ASCII cow](http://www.geocities.com/spunk1111/cows.htm) snippets for Sublime Text. Moo!
 
