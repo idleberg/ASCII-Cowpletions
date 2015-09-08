@@ -3,11 +3,11 @@
 [![Creative Commons](https://img.shields.io/badge/license-CC0%201.0-orange.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Travis](https://img.shields.io/travis/idleberg/ASCII-Cowpletions.svg?style=flat-square)](https://travis-ci.org/idleberg/ASCII-Cowpletions)
 
-Make your life more cow-plete with these fun [ASCII cow](http://www.geocities.com/spunk1111/cows.htm) snippets for Sublime Text. Moo!
+Make your life more cow-plete with these fun [ASCII cow](https://web.archive.org/web/20010817055008/http://www.geocities.com/spunk1111/cows.htm) snippets for Sublime Text. Moo!
 
 ![Animated Screenshot](https://raw.github.com/idleberg/ASCII-Cowpletions/master/images/screenshot.gif)
 
-This is only a part of the many cows that popped up to become one of the early memes of the internet — at a time when hardly anyone knew about the internet: in 1989. If you want to find out more about ASCII cows, read about [The Birth of the Cows](http://www.clasohm.com/cows/guide5.html).
+This is only a part of the many cows that popped up to become one of the early memes of the internet — at a time when hardly anyone knew about the internet: in 1989. If you want to find out more about ASCII cows, read about [The Birth of the Cows](https://web.archive.org/web/20120202025244/http://www.clasohm.com/cows/guide5.html).
 
 ## Installation
 
