@@ -1,6 +1,7 @@
 # ASCII Cowpletions
 
 [![Creative Commons](https://img.shields.io/badge/license-CC0%201.0-orange.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/ASCII%20Cowpletions.svg?style=flat-square)](https://packagecontrol.io/packages/ASCII%20Cowpletions)
 [![Travis](https://img.shields.io/travis/idleberg/ASCII-Cowpletions.svg?style=flat-square)](https://travis-ci.org/idleberg/ASCII-Cowpletions)
 
 Make your life more cow-plete with these fun [ASCII cow](https://web.archive.org/web/20010817055008/http://www.geocities.com/spunk1111/cows.htm) snippets for Sublime Text. Moo!
