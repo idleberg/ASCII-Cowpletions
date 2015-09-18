@@ -23,13 +23,12 @@ With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/)
 ### GitHub
 
 1. Change to your Sublime Text `Packages` directory
-2. Clone repository `git clone https://github.com/idleberg/ASCII-Cowpletions.git`
+2. Clone repository `git clone https://github.com/idleberg/ASCII-Cowpletions.git 'ASCII Cowpletions'`
 
 ### Manual Installation
 
-1. Download `ASCII Cowpletions.sublime-completions`
-2. Choose *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
-3. Copy the file to `Packages\User`
+1. Download the latest [stable release](https://github.com/idleberg/AppleScript-Sublime-Text/releases)
+2. Unzip the archive to your Sublime Text `Packages` directory
 
 ## License
 
