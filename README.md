@@ -20,7 +20,7 @@ This is only a part of the many cows that popped up to become one of the early m
 
 With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
 
-### GitHub
+### Using Git
 
 1. Change to your Sublime Text `Packages` directory
 2. Clone repository `git clone https://github.com/idleberg/ASCII-Cowpletions.git 'ASCII Cowpletions'`
@@ -53,4 +53,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ## Donate
 
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/ASCII-Cowpletions) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+You are welcome to support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/ASCII-Cowpletions) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
